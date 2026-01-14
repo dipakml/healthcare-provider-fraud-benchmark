@@ -176,7 +176,7 @@ AP_bar_chart.png
 ```bibtex
 @article{tabpfn_provider_fraud,
   title={Benchmarking TabPFN Against Traditional and Relational Models for Provider Fraud Detection},
-  author={Your Name},
+  author={Dipak Argade},
   year={2026}
 }
 ```
@@ -192,4 +192,4 @@ MIT License
 ## 📬 Contact
 
 For questions or collaboration:
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/dipakml
